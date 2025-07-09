@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./App.css"; // Asegúrate de tener este archivo creado
+import "./App.css";
 
 function App() {
   const [alumnos, setAlumnos] = useState([]);
